@@ -455,7 +455,7 @@ form{
 .cont_need{
   display: flex;
   justify-content: space-around;
-  
+  flex-direction: row;
 }
 .need{
   width: 22%;
