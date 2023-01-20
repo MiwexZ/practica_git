@@ -324,6 +324,16 @@ margin: 3rem;
 /* Formato PC */
 /* media query */
 @media (min-width: 700px) {
+  nav ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  nav ul li{
+    margin: 1rem;
+    list-style: none;
+  }
   .entrada{
    display: flex;
    background-position: bottom;
