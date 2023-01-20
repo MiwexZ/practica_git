@@ -334,6 +334,9 @@ margin: 3rem;
     margin: 1rem;
     list-style: none;
   }
+  .respmenu a{
+    padding-right: 2.3rem;
+  }
   .entrada{
    display: flex;
    background-position: bottom;
